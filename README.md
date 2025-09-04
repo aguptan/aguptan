@@ -39,9 +39,7 @@
 - Integrated Pycro-Manager with servo-controlled stage movement, reducing costs by approximately $15K.  
 - Built a SIFT/ORB stitching pipeline with regularized least-squares alignment.  
 - Applied Optuna hyperparameter optimization for dataset-aware auto-tuning.  
-[Hardware Repository](https://github.com/aguptan/MicroscopeScanTool)
-
-[Stitching Algorithm Repository](https://github.com/aguptan/StitchingAlgorithm)
+[Hardware Repository](https://github.com/aguptan/MicroscopeScanTool)  [Stitching Algorithm Repository](https://github.com/aguptan/StitchingAlgorithm)
 
 ---
 
