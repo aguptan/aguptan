@@ -26,27 +26,26 @@
 ## Selected Projects
 
 ### EEG-Based Delirium Classification
-- Designed and deployed a complete EEG classification pipeline (MATLAB/Python).  
-- Combined STFT-based feature extraction with Vision Transformer deep learning models.  
-- Implemented Leave-One-Out and K-Fold cross-validation with Youden’s J optimization.  
-- Built scalable solutions for multi-subject pediatric EEG datasets.  
+- Designed and deployed a full EEG classification pipeline using MATLAB and Python, integrating STFT-based Feature Extraction and Vision Transformer-based deep learning.  
+- Designed and delivered a scalable solution for multi-subject EEG analysis across large pediatric datasets in MATLAB. Currently implementing multiprocessing to speed up spectrogram-creation for about 150 pediatric patients.
+- Built a modular object-oriented Python framework to move and copy files using the shutil library, fine-tune and validate Vision Transformer models for pediatric delirium prediction, incorporating Youden’s J statistic, Leave-One-Out, and K-Fold cross-validation for patient-specific models.
+- Optimized the deep learning frameworks for efficient parallelization for fold-wise GPU training.
 [Delirium EEG Repository](https://github.com/aguptan/DeliriumEEG)  
 
 ---
 
 ### Tiling and Stitching Pipeline for High-Throughput Microscopy
-- Developed a Python-based imaging automation system for the Olympus BX-63 microscope.  
-- Integrated Pycro-Manager with servo-controlled stage movement, reducing costs by approximately $15K.  
-- Built a SIFT/ORB stitching pipeline with regularized least-squares alignment.  
-- Applied Optuna hyperparameter optimization for dataset-aware auto-tuning.  
+- Owned the design and implementation of a Python-based imaging automation system for the Olympus BX-63 microscope.
+- Integrated Pycro-Manager with Micro-Manager 2.0 and servo-controlled stage movement to replace commercial stitching tools, significantly reducing lab costs by $15K.
+- Building an SIFT/ORB stitching pipeline and regularized least-squares alignment; applied Optuna multi-objective HPO + K-fold CV with Pareto/inter-fold analysis to a dataset-aware auto-tuner for new datasets.
 [1. Hardware Repository](https://github.com/aguptan/MicroscopeScanTool)  [2. Stitching Algorithm Repository](https://github.com/aguptan/StitchingAlgorithm)
 
 ---
 
 ### Continuous Non-Invasive Blood Pressure Monitoring
-- Designed algorithms for a fluid-based cuff system (MATLAB/Arduino).  
-- Implemented FIR/IIR filtering, oscillogram generation, and envelope visualization.  
-- Optimized real-time data acquisition and validation for physiological monitoring.  
+- Led algorithm design for a novel fluid-based system for continuous blood pressure monitoring, driving research, and implementation to define key physiological parameters.
+- Owned the design and deployment of signal processing and data-driven algorithms, including FIR/IIR & Notch Filtering, Oscillogram Generation, and Envelope-based Visualization
+- Helped with developing and debugging the code for efficient data acquisition (Arduino) by implementing validation statements and editing faulty code.  
 [BPP Repository](https://github.com/aguptan/Blood_Pressure_Project)  
 
 ---
