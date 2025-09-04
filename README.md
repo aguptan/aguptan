@@ -1,7 +1,8 @@
 # Amal Guptan
 
-- Biomedical Engineer experienced in algorithm design, large-scale data analysis, and the development of computational pipelines across multi-modal data streams. 
-- Spans signal processing, machine learning, computer vision, and deep learning, with applications in EEG analysis, medical imaging, and physiological monitoring.
+- Biomedical engineer experienced in algorithm design and large-scale data analysis across various modalities, with a strong ability to abstract complex problems and select suitable computational modeling strategies.
+- Experienced in system-level design, pipeline planning, and integrating tools across multi-modal data streams.
+- Developed pipelines for motor control, image processing, statistical modeling, and signal analysis (physiological and fluid-based) using MATLAB and Python. 
 
 ---
 
@@ -9,7 +10,6 @@
 - M.S. Biomedical Engineering, The George Washington University (2024)  
 - B.S. Biomedical Engineering, University of Rhode Island (2022)  
 - Current Role: Biomedical Data Engineer (Research Technician) at Children's National Medical Center (CNMC)  
-- Focus: Building scalable pipelines that integrate biomedical engineering, data science, and clinical applications  
 
 ---
 
@@ -30,7 +30,7 @@
 - Combined STFT-based feature extraction with Vision Transformer deep learning models.  
 - Implemented Leave-One-Out and K-Fold cross-validation with Youden’s J optimization.  
 - Built scalable solutions for multi-subject pediatric EEG datasets.  
-[View Repository](https://github.com/aguptan/DeliriumEEG)  
+[Delirium EEG Repository](https://github.com/aguptan/DeliriumEEG)  
 
 ---
 
@@ -39,8 +39,8 @@
 - Integrated Pycro-Manager with servo-controlled stage movement, reducing costs by approximately $15K.  
 - Built a SIFT/ORB stitching pipeline with regularized least-squares alignment.  
 - Applied Optuna hyperparameter optimization for dataset-aware auto-tuning.  
-[View Repository](https://github.com/aguptan/MicroscopeScanTool)
-[View Repository](https://github.com/aguptan/StitchingAlgorithm)
+[Hardware Repository](https://github.com/aguptan/MicroscopeScanTool)
+[Stitching Algorithm Repository](https://github.com/aguptan/StitchingAlgorithm)
 
 ---
 
@@ -48,7 +48,7 @@
 - Designed algorithms for a fluid-based cuff system (MATLAB/Arduino).  
 - Implemented FIR/IIR filtering, oscillogram generation, and envelope visualization.  
 - Optimized real-time data acquisition and validation for physiological monitoring.  
-[View Repository](https://github.com/aguptan/Blood_Pressure_Project)  
+[BPP Repository](https://github.com/aguptan/Blood_Pressure_Project)  
 
 ---
 
