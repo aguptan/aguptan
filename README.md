@@ -40,6 +40,7 @@
 - Built a SIFT/ORB stitching pipeline with regularized least-squares alignment.  
 - Applied Optuna hyperparameter optimization for dataset-aware auto-tuning.  
 [Hardware Repository](https://github.com/aguptan/MicroscopeScanTool)
+
 [Stitching Algorithm Repository](https://github.com/aguptan/StitchingAlgorithm)
 
 ---
