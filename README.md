@@ -63,7 +63,7 @@
 
 ---
 
-## Using AI in Coding
+## How I use AI for Coding
 - **Breaking down complex problems & system design**
   - **Requirements → modules:** 
 		
