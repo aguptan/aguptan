@@ -66,10 +66,12 @@
 ## Using AI in Coding
 - **Breaking down complex problems & system design**
   - **Requirements → modules:** 
-		- Turn problem statements into a module maps (data loaders, preprocessing, model/train loops, evaluation, logging) for architecture exploration.
+		
+  		- Turn problem statements into a module maps (data loaders, preprocessing, model/train loops, evaluation, logging) for architecture exploration.
   
   - **Architecture exploration:** 
-		- Compare design options (e.g., LOOCV vs K-Fold, single vs multi-objective HPO, patient- vs electrode-level analysis) 
+		
+  		- Compare design options (e.g., LOOCV vs K-Fold, single vs multi-objective HPO, patient- vs electrode-level analysis) 
 		
   		- Draft pros/cons before implementation.
 
