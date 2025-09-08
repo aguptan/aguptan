@@ -70,7 +70,7 @@
   
   - **Architecture exploration:** 
 		- Compare design options (e.g., LOOCV vs K-Fold, single vs multi-objective HPO, patient- vs electrode-level analysis) 
-		- Draft pros/cons before implementation.
+		</n>- Draft pros/cons before implementation.
         - Produce stepwise build plans (prep → train → validate → analyze) to keep work scoped and reproducible.
 		
 - **Speeding up development**
